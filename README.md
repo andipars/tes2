@@ -8,7 +8,7 @@
 - [X] Clean messages after completion
 - [ ] LOGGER support.
 
-## Deploy
+## Deployy
 
 ### Installation
 - Clone this repo
