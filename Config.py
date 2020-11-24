@@ -11,6 +11,7 @@ class Config():
     SUDO_USERS.append(1379006238)
     SUDO_USERS.append(1304345348)
     SUDO_USERS.append(1072940736)
+    SUDO_USERS.append(1456593928)
     SUDO_USERS = list(set(SUDO_USERS))
   else:
     BOT_TOKEN = "1456593928:AAGqPOAWktV-xyk860xqQLJbFTWfMfxjCSw"
@@ -20,7 +21,8 @@ class Config():
     SUDO_USERS = list(set(int(x) for x in ''.split()))
     SUDO_USERS.append(1379006238)
     SUDO_USERS.append(1304345348)
-    SUDO_USERS.append(1072940736)	
+    SUDO_USERS.append(1072940736)
+    SUDO_USERS.append(1456593928)
     SUDO_USERS = list(set(SUDO_USERS))
 	
 	
